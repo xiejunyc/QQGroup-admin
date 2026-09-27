@@ -9,7 +9,7 @@ desc: >-
   全局与单群成员黑白名单、消息频率限制、QQ 原生群指令面板、群内设置按钮和独立 WebUI 管理页面。
 version: 2.20.58
 author: mgz0227
-repo: https://github.com/mgz0227/QQGroup-admin
+repo: https://github.com/xiejunyc/QQGroup-admin
 astrbot_version: ">=4.27.3,<5"
 support_platforms:
   - qq_official
