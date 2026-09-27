@@ -5948,7 +5948,7 @@ class QQGroupAdmin(Star):
             self._keyword_reply_ready_at[group_openid] = reservation
         try:
             client = self._client(event)
-            sent = await self._send_group_text(
+            sent = await self._send_group_markdown(
                 client,
                 group_openid,
                 reply,
